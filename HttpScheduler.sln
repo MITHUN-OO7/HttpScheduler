@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpScheduler", "HttpScheduler\HttpScheduler.csproj", "{39DE7F05-E5E6-4EAD-900B-87731267670E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpBL", "HttpBL\HttpBL.csproj", "{514F215B-28B9-44FE-AD03-7C37FE507395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39DE7F05-E5E6-4EAD-900B-87731267670E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39DE7F05-E5E6-4EAD-900B-87731267670E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39DE7F05-E5E6-4EAD-900B-87731267670E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39DE7F05-E5E6-4EAD-900B-87731267670E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{514F215B-28B9-44FE-AD03-7C37FE507395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{514F215B-28B9-44FE-AD03-7C37FE507395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{514F215B-28B9-44FE-AD03-7C37FE507395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{514F215B-28B9-44FE-AD03-7C37FE507395}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C19DBED8-17D7-4216-8993-A4A2D23F36C7}
+	EndGlobalSection
+EndGlobal
